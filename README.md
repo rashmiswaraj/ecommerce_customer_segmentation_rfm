@@ -54,7 +54,7 @@ In the highly competitive e-commerce space, understanding customer behavior is e
 
 ## 📷 Sample Visuals
 
-> You can find heatmaps, pie charts, revenue trends, and RFM-based insights under the `visuals/` folder.
+> You can find heatmaps, pie charts, revenue trends, and RFM-based insights in the `ecommerce_ppt_pdf` .
 
 ---
 
